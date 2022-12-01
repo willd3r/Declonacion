@@ -1,0 +1,16 @@
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/CMakeFiles/INSTALL.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/flutter/CMakeFiles/INSTALL.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/runner/CMakeFiles/twitch_clone_tutorial.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/runner/CMakeFiles/INSTALL.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/runner/CMakeFiles/ALL_BUILD.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/plugins/agora_rtc_engine/CMakeFiles/agora_rtc_engine_plugin.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/plugins/agora_rtc_engine/CMakeFiles/INSTALL.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/plugins/agora_rtc_engine/CMakeFiles/ALL_BUILD.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/plugins/permission_handler_windows/CMakeFiles/permission_handler_windows_plugin.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/plugins/permission_handler_windows/CMakeFiles/INSTALL.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/plugins/permission_handler_windows/CMakeFiles/ALL_BUILD.dir

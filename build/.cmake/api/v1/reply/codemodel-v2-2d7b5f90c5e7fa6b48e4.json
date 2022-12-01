@@ -1,0 +1,730 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-eade04cae1f475a64ba4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						4
+					]
+				},
+				{
+					"build" : "flutter",
+					"jsonFile" : "directory-flutter-Debug-79e0260f2327d8493c28.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "flutter",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "runner",
+					"jsonFile" : "directory-runner-Debug-86f38b7dcb6f33eb04e4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "runner",
+					"targetIndexes" : 
+					[
+						1,
+						10
+					]
+				},
+				{
+					"build" : "plugins/agora_rtc_engine",
+					"jsonFile" : "directory-plugins.agora_rtc_engine-Debug-aab365b38ed5940c8ebf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows",
+					"targetIndexes" : 
+					[
+						2,
+						5
+					]
+				},
+				{
+					"build" : "plugins/permission_handler_windows",
+					"jsonFile" : "directory-plugins.permission_handler_windows-Debug-a59e40fd26397b75cc14.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "flutter/ephemeral/.plugin_symlinks/permission_handler_windows/windows",
+					"targetIndexes" : 
+					[
+						3,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "twitch_clone_tutorial",
+					"targetIndexes" : 
+					[
+						0,
+						4,
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "runner",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "agora_rtc_engine",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "permission_handler_windows",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-3ecbdb4f30ad886e0927.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@056c4f61b0156d1d9b06",
+					"jsonFile" : "target-ALL_BUILD-Debug-b5ea1339d6bb4bbbabde.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ALL_BUILD::@c829e29ac73eae70a955",
+					"jsonFile" : "target-ALL_BUILD-Debug-076364365ca9d95b381f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ALL_BUILD::@15851dc22c812b45487c",
+					"jsonFile" : "target-ALL_BUILD-Debug-a658e3e501a168421735.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-042c4603b83f596e89ac.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "agora_rtc_engine_plugin::@c829e29ac73eae70a955",
+					"jsonFile" : "target-agora_rtc_engine_plugin-Debug-af66bd444a8e67b13878.json",
+					"name" : "agora_rtc_engine_plugin",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "flutter_assemble::@2bb09fbb03a373b2cb34",
+					"jsonFile" : "target-flutter_assemble-Debug-9a3f718c4a8ab2c4e273.json",
+					"name" : "flutter_assemble",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "flutter_wrapper_app::@2bb09fbb03a373b2cb34",
+					"jsonFile" : "target-flutter_wrapper_app-Debug-b6d7901140aa8d33db92.json",
+					"name" : "flutter_wrapper_app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "flutter_wrapper_plugin::@2bb09fbb03a373b2cb34",
+					"jsonFile" : "target-flutter_wrapper_plugin-Debug-6e74093ac1f219528647.json",
+					"name" : "flutter_wrapper_plugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "permission_handler_windows_plugin::@15851dc22c812b45487c",
+					"jsonFile" : "target-permission_handler_windows_plugin-Debug-405c549ff3414fca31ef.json",
+					"name" : "permission_handler_windows_plugin",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "twitch_clone_tutorial::@056c4f61b0156d1d9b06",
+					"jsonFile" : "target-twitch_clone_tutorial-Debug-c9b3bbdbe0d6aa5d8ed3.json",
+					"name" : "twitch_clone_tutorial",
+					"projectIndex" : 1
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Profile-d36d77e13c0d5f623e19.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						4
+					]
+				},
+				{
+					"build" : "flutter",
+					"jsonFile" : "directory-flutter-Profile-79e0260f2327d8493c28.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "flutter",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "runner",
+					"jsonFile" : "directory-runner-Profile-86f38b7dcb6f33eb04e4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "runner",
+					"targetIndexes" : 
+					[
+						1,
+						10
+					]
+				},
+				{
+					"build" : "plugins/agora_rtc_engine",
+					"jsonFile" : "directory-plugins.agora_rtc_engine-Profile-aab365b38ed5940c8ebf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows",
+					"targetIndexes" : 
+					[
+						2,
+						5
+					]
+				},
+				{
+					"build" : "plugins/permission_handler_windows",
+					"jsonFile" : "directory-plugins.permission_handler_windows-Profile-a59e40fd26397b75cc14.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "flutter/ephemeral/.plugin_symlinks/permission_handler_windows/windows",
+					"targetIndexes" : 
+					[
+						3,
+						9
+					]
+				}
+			],
+			"name" : "Profile",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "twitch_clone_tutorial",
+					"targetIndexes" : 
+					[
+						0,
+						4,
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "runner",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "agora_rtc_engine",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "permission_handler_windows",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Profile-3ecbdb4f30ad886e0927.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@056c4f61b0156d1d9b06",
+					"jsonFile" : "target-ALL_BUILD-Profile-b5ea1339d6bb4bbbabde.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ALL_BUILD::@c829e29ac73eae70a955",
+					"jsonFile" : "target-ALL_BUILD-Profile-076364365ca9d95b381f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ALL_BUILD::@15851dc22c812b45487c",
+					"jsonFile" : "target-ALL_BUILD-Profile-a658e3e501a168421735.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Profile-042c4603b83f596e89ac.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "agora_rtc_engine_plugin::@c829e29ac73eae70a955",
+					"jsonFile" : "target-agora_rtc_engine_plugin-Profile-ae32aeb722ef2a554582.json",
+					"name" : "agora_rtc_engine_plugin",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "flutter_assemble::@2bb09fbb03a373b2cb34",
+					"jsonFile" : "target-flutter_assemble-Profile-9a3f718c4a8ab2c4e273.json",
+					"name" : "flutter_assemble",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "flutter_wrapper_app::@2bb09fbb03a373b2cb34",
+					"jsonFile" : "target-flutter_wrapper_app-Profile-cd58f2d7ffe17680577b.json",
+					"name" : "flutter_wrapper_app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "flutter_wrapper_plugin::@2bb09fbb03a373b2cb34",
+					"jsonFile" : "target-flutter_wrapper_plugin-Profile-b9f9b949e1af3007de86.json",
+					"name" : "flutter_wrapper_plugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "permission_handler_windows_plugin::@15851dc22c812b45487c",
+					"jsonFile" : "target-permission_handler_windows_plugin-Profile-c3a32420fef99e582a06.json",
+					"name" : "permission_handler_windows_plugin",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "twitch_clone_tutorial::@056c4f61b0156d1d9b06",
+					"jsonFile" : "target-twitch_clone_tutorial-Profile-f16d5d7a96c282a2c7ab.json",
+					"name" : "twitch_clone_tutorial",
+					"projectIndex" : 1
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-07bf6be72e74cfcb809a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						4
+					]
+				},
+				{
+					"build" : "flutter",
+					"jsonFile" : "directory-flutter-Release-79e0260f2327d8493c28.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "flutter",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "runner",
+					"jsonFile" : "directory-runner-Release-86f38b7dcb6f33eb04e4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "runner",
+					"targetIndexes" : 
+					[
+						1,
+						10
+					]
+				},
+				{
+					"build" : "plugins/agora_rtc_engine",
+					"jsonFile" : "directory-plugins.agora_rtc_engine-Release-aab365b38ed5940c8ebf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows",
+					"targetIndexes" : 
+					[
+						2,
+						5
+					]
+				},
+				{
+					"build" : "plugins/permission_handler_windows",
+					"jsonFile" : "directory-plugins.permission_handler_windows-Release-a59e40fd26397b75cc14.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "flutter/ephemeral/.plugin_symlinks/permission_handler_windows/windows",
+					"targetIndexes" : 
+					[
+						3,
+						9
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "twitch_clone_tutorial",
+					"targetIndexes" : 
+					[
+						0,
+						4,
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "runner",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "agora_rtc_engine",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "permission_handler_windows",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-3ecbdb4f30ad886e0927.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@056c4f61b0156d1d9b06",
+					"jsonFile" : "target-ALL_BUILD-Release-b5ea1339d6bb4bbbabde.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "ALL_BUILD::@c829e29ac73eae70a955",
+					"jsonFile" : "target-ALL_BUILD-Release-076364365ca9d95b381f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ALL_BUILD::@15851dc22c812b45487c",
+					"jsonFile" : "target-ALL_BUILD-Release-a658e3e501a168421735.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-042c4603b83f596e89ac.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "agora_rtc_engine_plugin::@c829e29ac73eae70a955",
+					"jsonFile" : "target-agora_rtc_engine_plugin-Release-b05dfac17a9cf295d76e.json",
+					"name" : "agora_rtc_engine_plugin",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "flutter_assemble::@2bb09fbb03a373b2cb34",
+					"jsonFile" : "target-flutter_assemble-Release-9a3f718c4a8ab2c4e273.json",
+					"name" : "flutter_assemble",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "flutter_wrapper_app::@2bb09fbb03a373b2cb34",
+					"jsonFile" : "target-flutter_wrapper_app-Release-9e53f284b121320b585a.json",
+					"name" : "flutter_wrapper_app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "flutter_wrapper_plugin::@2bb09fbb03a373b2cb34",
+					"jsonFile" : "target-flutter_wrapper_plugin-Release-f7a5fba205c0a1775ff2.json",
+					"name" : "flutter_wrapper_plugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "permission_handler_windows_plugin::@15851dc22c812b45487c",
+					"jsonFile" : "target-permission_handler_windows_plugin-Release-b54b4261fad07add05ec.json",
+					"name" : "permission_handler_windows_plugin",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "twitch_clone_tutorial::@056c4f61b0156d1d9b06",
+					"jsonFile" : "target-twitch_clone_tutorial-Release-56a8401fe53ce5a86ce6.json",
+					"name" : "twitch_clone_tutorial",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/wsosa/OneDrive/Documentos/trabajo/build",
+		"source" : "C:/Users/wsosa/OneDrive/Documentos/trabajo/flutter-twitch-clone-master/flutter-twitch-clone-master/windows"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

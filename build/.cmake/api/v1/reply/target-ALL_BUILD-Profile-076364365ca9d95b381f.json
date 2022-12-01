@@ -1,0 +1,36 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "agora_rtc_engine_plugin::@c829e29ac73eae70a955"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "ALL_BUILD::@c829e29ac73eae70a955",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : "plugins/agora_rtc_engine",
+		"source" : "flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

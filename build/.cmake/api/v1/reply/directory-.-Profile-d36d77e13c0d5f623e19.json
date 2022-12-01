@@ -1,0 +1,149 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 68,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 71,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 74,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 78,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 86,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 89,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 93,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Runtime",
+			"destination" : "C:/Users/wsosa/OneDrive/Documentos/trabajo/build/runner/Profile",
+			"paths" : 
+			[
+				"runner/Profile/twitch_clone_tutorial.exe"
+			],
+			"targetId" : "twitch_clone_tutorial::@056c4f61b0156d1d9b06",
+			"targetIndex" : 10,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Runtime",
+			"destination" : "C:/Users/wsosa/OneDrive/Documentos/trabajo/build/runner/Profile/data",
+			"paths" : 
+			[
+				"flutter/ephemeral/icudtl.dat"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Runtime",
+			"destination" : "C:/Users/wsosa/OneDrive/Documentos/trabajo/build/runner/Profile",
+			"paths" : 
+			[
+				"flutter/ephemeral/flutter_windows.dll"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Runtime",
+			"destination" : "C:/Users/wsosa/OneDrive/Documentos/trabajo/build/runner/Profile",
+			"paths" : 
+			[
+				"C:/Users/wsosa/OneDrive/Documentos/trabajo/build/plugins/agora_rtc_engine/Profile/agora_rtc_engine_plugin.dll",
+				"flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows/third_party/iris/Agora_Native_SDK_for_Windows_IRIS/x64/Release/AgoraRtcScreenSharing.exe",
+				"flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows/third_party/iris/Agora_Native_SDK_for_Windows_IRIS/x64/Release/AgoraRtcWrapper.dll",
+				"flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows/third_party/iris/Agora_Native_SDK_for_Windows_IRIS/RTC/Agora_Native_SDK_for_Windows_FULL/libs/x86_64/agora_rtc_sdk.dll",
+				"flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows/third_party/iris/Agora_Native_SDK_for_Windows_IRIS/RTC/Agora_Native_SDK_for_Windows_FULL/libs/x86_64/av1.dll",
+				"flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows/third_party/iris/Agora_Native_SDK_for_Windows_IRIS/RTC/Agora_Native_SDK_for_Windows_FULL/libs/x86_64/libagora_ai_denoise_extension.dll",
+				"flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows/third_party/iris/Agora_Native_SDK_for_Windows_IRIS/RTC/Agora_Native_SDK_for_Windows_FULL/libs/x86_64/libagora_dav1d_extension.dll",
+				"flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows/third_party/iris/Agora_Native_SDK_for_Windows_IRIS/RTC/Agora_Native_SDK_for_Windows_FULL/libs/x86_64/libagora-core.dll",
+				"flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows/third_party/iris/Agora_Native_SDK_for_Windows_IRIS/RTC/Agora_Native_SDK_for_Windows_FULL/libs/x86_64/libagora-fdkaac.dll",
+				"flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows/third_party/iris/Agora_Native_SDK_for_Windows_IRIS/RTC/Agora_Native_SDK_for_Windows_FULL/libs/x86_64/libagora-ffmpeg.dll",
+				"flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows/third_party/iris/Agora_Native_SDK_for_Windows_IRIS/RTC/Agora_Native_SDK_for_Windows_FULL/libs/x86_64/libagora-mpg123.dll",
+				"flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows/third_party/iris/Agora_Native_SDK_for_Windows_IRIS/RTC/Agora_Native_SDK_for_Windows_FULL/libs/x86_64/libagora-soundtouch.dll",
+				"flutter/ephemeral/.plugin_symlinks/agora_rtc_engine/windows/third_party/iris/Agora_Native_SDK_for_Windows_IRIS/RTC/Agora_Native_SDK_for_Windows_FULL/libs/x86_64/libhwcodec.dll",
+				"C:/Users/wsosa/OneDrive/Documentos/trabajo/build/plugins/permission_handler_windows/Profile/permission_handler_windows_plugin.dll"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Runtime",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Runtime",
+			"destination" : "C:/Users/wsosa/OneDrive/Documentos/trabajo/build/runner/Profile/data",
+			"paths" : 
+			[
+				"C:/Users/wsosa/OneDrive/Documentos/trabajo/flutter-twitch-clone-master/flutter-twitch-clone-master/build//flutter_assets"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Runtime",
+			"destination" : "C:/Users/wsosa/OneDrive/Documentos/trabajo/build/runner/Profile/data",
+			"paths" : 
+			[
+				"C:/Users/wsosa/OneDrive/Documentos/trabajo/flutter-twitch-clone-master/flutter-twitch-clone-master/build/windows/app.so"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

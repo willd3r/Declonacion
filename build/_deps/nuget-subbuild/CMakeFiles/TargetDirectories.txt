@@ -1,0 +1,3 @@
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/_deps/nuget-subbuild/CMakeFiles/nuget-populate.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/_deps/nuget-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/_deps/nuget-subbuild/CMakeFiles/ZERO_CHECK.dir

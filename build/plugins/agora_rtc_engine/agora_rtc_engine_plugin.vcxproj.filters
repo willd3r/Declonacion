@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\wsosa\OneDrive\Documentos\trabajo\flutter-twitch-clone-master\flutter-twitch-clone-master\windows\flutter\ephemeral\.plugin_symlinks\agora_rtc_engine\windows\agora_rtc_channel_plugin.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wsosa\OneDrive\Documentos\trabajo\flutter-twitch-clone-master\flutter-twitch-clone-master\windows\flutter\ephemeral\.plugin_symlinks\agora_rtc_engine\windows\agora_rtc_device_manager_plugin.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wsosa\OneDrive\Documentos\trabajo\flutter-twitch-clone-master\flutter-twitch-clone-master\windows\flutter\ephemeral\.plugin_symlinks\agora_rtc_engine\windows\agora_rtc_engine_plugin.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wsosa\OneDrive\Documentos\trabajo\flutter-twitch-clone-master\flutter-twitch-clone-master\windows\flutter\ephemeral\.plugin_symlinks\agora_rtc_engine\windows\agora_texture_view_factory.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wsosa\OneDrive\Documentos\trabajo\flutter-twitch-clone-master\flutter-twitch-clone-master\windows\flutter\ephemeral\.plugin_symlinks\agora_rtc_engine\windows\call_api_method_call_handler.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wsosa\OneDrive\Documentos\trabajo\flutter-twitch-clone-master\flutter-twitch-clone-master\windows\flutter\ephemeral\.plugin_symlinks\agora_rtc_engine\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CEF03513-7D15-34C9-AFA6-0A7CFD5F42EB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

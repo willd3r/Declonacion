@@ -1,0 +1,15 @@
+# Target labels
+ nuget-populate
+# Source files and their labels
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/_deps/nuget-subbuild/CMakeFiles/nuget-populate
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/_deps/nuget-subbuild/CMakeFiles/bad8c858a6959fa93c65c76f2c5d940a/nuget-populate.rule
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/_deps/nuget-subbuild/CMakeFiles/c3cb37468c8cc31e12b1700b7aac1784/nuget-populate-complete.rule
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/_deps/nuget-subbuild/CMakeFiles/f615da4d4b8c9ffc2064697efb72a166/nuget-populate-build.rule
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/_deps/nuget-subbuild/CMakeFiles/f615da4d4b8c9ffc2064697efb72a166/nuget-populate-configure.rule
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/_deps/nuget-subbuild/CMakeFiles/f615da4d4b8c9ffc2064697efb72a166/nuget-populate-copyfile.rule
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/_deps/nuget-subbuild/CMakeFiles/f615da4d4b8c9ffc2064697efb72a166/nuget-populate-download.rule
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/_deps/nuget-subbuild/CMakeFiles/f615da4d4b8c9ffc2064697efb72a166/nuget-populate-install.rule
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/_deps/nuget-subbuild/CMakeFiles/f615da4d4b8c9ffc2064697efb72a166/nuget-populate-mkdir.rule
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/_deps/nuget-subbuild/CMakeFiles/f615da4d4b8c9ffc2064697efb72a166/nuget-populate-patch.rule
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/_deps/nuget-subbuild/CMakeFiles/f615da4d4b8c9ffc2064697efb72a166/nuget-populate-test.rule
+C:/Users/wsosa/OneDrive/Documentos/trabajo/build/_deps/nuget-subbuild/CMakeFiles/f615da4d4b8c9ffc2064697efb72a166/nuget-populate-update.rule
